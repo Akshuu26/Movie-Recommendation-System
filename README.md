@@ -223,18 +223,11 @@ This project is licensed under the MIT License.
 
 
 
-🙌 Acknowledgements
----------------------------------
-MovieLens Dataset
-TMDB API
-Open-source community
+<img width="578" height="407" alt="image" src="https://github.com/user-attachments/assets/4916fc55-7aed-47b0-8181-445e10082c12" />
+
+<img width="424" height="478" alt="image" src="https://github.com/user-attachments/assets/d3c2a88d-76cd-4648-a2b1-c06df1956889" />
 
 
 
 
-
-If you want, I can also convert this into:
-
- Project report (for college submission)
- PPT presentation
- Working Python code with UI
+ 
