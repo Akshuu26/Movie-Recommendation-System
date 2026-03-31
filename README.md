@@ -8,10 +8,42 @@ A Movie Recommendation System is a type of software or AI-based system that sugg
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 🎬 Movie Recommendation System
 📌 Overview
 
 The Movie Recommendation System is a machine learning-based project that suggests movies to users based on their preferences. It analyzes user data such as ratings, genres, and viewing history to provide personalized recommendations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -33,6 +65,25 @@ Pandas & NumPy
 Scikit-learn
 Streamlit / Flask (for web app)
 Dataset: MovieLens / TMDB
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
