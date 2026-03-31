@@ -6,6 +6,7 @@ The Movie Recommendation System is an intelligent application that suggests movi
 The project focuses on improving user experience by reducing search time and helping users discover new and relevant movies.
 
 🎯 Objectives
+
 To build a system that recommends movies based on user preferences
 To understand and implement recommendation algorithms
 To analyze movie datasets and extract useful insights
@@ -161,13 +162,13 @@ Top 5–10 recommended movies are displayed
 Accuracy of recommendations
 Precision & Recall
 Mean Squared Error (for ratings prediction)
-🔮 Future Enhancements
-🎯 Deep learning-based recommendation (Neural Networks)
-🌐 Deploy on cloud (AWS, Heroku)
-📱 Mobile application integration
-🗣️ Voice-based movie search
-🎞️ Integration with real-time streaming APIs
-⚠️ Limitations
+ Future Enhancements
+ Deep learning-based recommendation (Neural Networks)
+ Deploy on cloud (AWS, Heroku)
+ Mobile application integration
+ Voice-based movie search
+ Integration with real-time streaming APIs
+ Limitations
 Cold start problem (new users or movies)
 Requires large datasets for better accuracy
 May not always capture changing user preferences
